@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hossam/Desktop/lammps water system/Cpp more rigorous/concatenation to x y for gnuplot/concat.cpp
+concat.h
+/home/hossam/Desktop/lammps water system/Cpp more rigorous/concatenation to x y for gnuplot/concat.h
+fstream
+-
+cstring
+-
+string
+-
+iostream
+-
+
+/home/hossam/Desktop/lammps water system/Cpp more rigorous/concatenation to x y for gnuplot/concat.h
+fstream
+-
+cstring
+-
+string
+-
+
+/home/hossam/Desktop/lammps water system/Cpp more rigorous/concatenation to x y for gnuplot/main.cpp
+iostream
+-
+concat.h
+/home/hossam/Desktop/lammps water system/Cpp more rigorous/concatenation to x y for gnuplot/concat.h
+
